@@ -1,0 +1,29 @@
+baseurl = "http://lignitetech.com/"
+languageCode = "en-us"
+title = "Lignite Tech"
+theme = "hugo-freelancer-theme"
+
+[params]
+
+	email = "your@email.com"
+	[params.navigation]
+        brand = "Lignite Tech"
+ 
+    [params.header]
+        # Copy your own image into './static/img/'' if you wish
+        image = "profile.png"
+        name = "Lignite Tech"
+        subtitle = "Discover - Explore - React"
+
+    [params.portfolio]
+        # All projects defined in their own files. You can find example projects
+        # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
+        # at the root of this Hugo site.
+        # For more informtion take a look at the README.
+        title = "Portfolio"
+
+    [params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttontext = "Close"
