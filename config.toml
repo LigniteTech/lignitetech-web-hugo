@@ -30,7 +30,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "info@lignitetech.com"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
     copyright = "Copyright (c) 2016, LigniteTech; all rights reserved."
@@ -50,6 +50,7 @@ paginate = 10
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
+    use_case = "/use_case/:filename/"
 
 [[params.menu]]
     name = "Home"
