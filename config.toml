@@ -50,7 +50,7 @@ paginate = 10
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
-    use_case = "/use_case/:filename/"
+    scenario = "/use_case/:filename/"
 
 [[params.menu]]
     name = "Home"
