@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:LigniteTech/lignitetech.github.io.git
 	branch = master
+[submodule "themes/hugo-universal-theme"]
+	path = themes/hugo-universal-theme
+	url = git@github.com:devcows/hugo-universal-theme.git
