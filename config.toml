@@ -1,5 +1,5 @@
 baseurl = "http:/www.lignitetech.com"
-title = "Universal"
+title = "LigniteTech"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
