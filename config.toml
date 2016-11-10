@@ -36,17 +36,17 @@ paginate = 10
     copyright = "Copyright (c) 2016, LigniteTech; all rights reserved."
     date_format = "2006-01-02"
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+    address = """<p><strong>LigniteTech</strong>
         <br>
-        <strong>Great Britain</strong>
+        <br>Farnborough
+        <br>GU14
+        <br>
+        <br>
+        <strong>United Kingdom</strong>
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "51.286894"
+    longitude = "-0.752615"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -58,8 +58,8 @@ paginate = 10
     weight = 1
 
 [[params.menu]]
-    name = "Blog"
-    url  = "/blog/"
+    name = "Features"
+    url  = "/features/"
     weight = 2
 
 [[params.menu]]
@@ -120,7 +120,7 @@ paginate = 10
     subtitle = ""
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "From our blog"
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
 
