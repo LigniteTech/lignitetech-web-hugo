@@ -1,0 +1,4 @@
+weight: 5
+name: "Assemble"
+icon: "fa fa-link"
+description: "Dynamically link and aggregate data and relationships"

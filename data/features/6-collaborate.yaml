@@ -1,0 +1,4 @@
+weight: 6
+name: "Collaborate"
+icon: "fa fa-user"
+description: "Realtime collaboration of investigations and worksets. Role based authorization to ensure the appropriate audience for data"

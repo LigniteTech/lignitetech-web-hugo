@@ -1,0 +1,4 @@
+weight: 2
+name: "Visualize"
+icon: "fa fa-eye"
+description: "Acquire and analyse public and private data sources. Generate intuitive visualisations of aggregated data sources"
