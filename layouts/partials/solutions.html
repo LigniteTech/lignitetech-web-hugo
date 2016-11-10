@@ -1,21 +1,21 @@
-{{ if isset .Site.Params "scenarios" }}
-{{ if .Site.Params.scenarios.enable }}
+{{ if isset .Site.Params "solutions" }}
+{{ if .Site.Params.solutions.enable }}
 <section class="bar background-white no-mb">
     <div class="container">
 
         <div class="col-md-12">
             <div class="heading text-center">
-                <h2>{{ .Site.Params.scenarios.title }}</h2>
+                <h2>{{ .Site.Params.solutions.title }}</h2>
             </div>
 
             <p class="lead">
-              {{ .Site.Params.scenarios.subtitle }}
+              {{ .Site.Params.solutions.subtitle }}
             </p>
 
             <!-- *** BLOG HOMEPAGE *** -->
 
             <div class="row">                                
-                {{ range first 4 (where .Data.Pages "Type" "scenario") }}
+                {{ range first 4 (where .Data.Pages "Type" "solution") }}
                 <div class="col-md-3 col-sm-6">
                     <div class="box-image-text blog">
                         <div class="top">
