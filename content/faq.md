@@ -11,7 +11,17 @@ LigniteTech Miner is Cloud SaaS is the SaaS (Software as a Service) implementati
 
 Any data that can be captured digitally is a candidate for being used.
 
+For instance you can see that two people have a connection
+
 ![Person to Person](/img/screenshots/person-to-person.png)
+
+In this case you can see that a person has a connection to a building
+
+![Person to Building](/img/screenshots/person-to-building.png)
+
+Within the data model not only are the entities treated as first class citizens but so is the type of connection between them.
+
+## 3. WHAT DATA SOURCES CAN I USE?
 
 
 ---
