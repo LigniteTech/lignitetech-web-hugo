@@ -29,6 +29,21 @@ Any addressable source that has a text based data or meta data component can be 
 
 The underlying technology used can be used to efficiently store and retrieve billions of data points. Several hundred thousand events per hour can be consumed, analysed and linked.
 
+## 5. CAN PROPRIETARY DATA SOURCES BE USED?
+
+Given the modular way in which the data is stored, the platform is agnostic about the source of the data. If you require data from a non public source then our consulting team will be available to manage the entire delivery from determining requirements, development, installation and support of the bespoke components.
+
+## 6. HOW IS THE SYSTEM ACCESSED
+
+Typically platform is hosted in UK / US / EU data centres, which customers connect using an encrypted web connection. This will require configuration of any customer firewalls which are in place (led by the customer in conjunction with our support team). Platform instances will not be shared between customers or any other third party.
+
+A typical service for 5 users will run on a 10Mb/s web connection. We are able to advise on bandwidth requirements for larger deployments.
+
+Since the service is deployed through a browser, a low latency connection is not required for the service to operate effectively. Given the nature of the technology in use a modern web browser will be required (eg Google Chrome, Mozilla Firefox).
+
+If the data being analysed is of a sensitive nature then self hosted options are available and will require a custom price plan.
+
+## 7. 
 
 ---
 
