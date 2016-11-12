@@ -21,7 +21,13 @@ In this case you can see that a person has a connection to a building
 
 Within the data model not only are the entities treated as first class citizens but so is the type of connection between them.
 
-## 3. WHAT DATA SOURCES CAN I USE?
+## 3. WHAT DATA SOURCES CAN BE USED?
+
+Any addressable source that has a text based data or meta data component can be used as a source. Publicly available streaming sources such as Twitter, Google Plus or Facebook can be used to provide real time data. In addition, static snapshots of data can be provided using Relational databases, NoSQL databases and Flat files. Finally data can also be extracted from Big Data endpoints such as Apache Sparl, Apache Kafka or Apache Flink.
+
+## 4. HOW MUCH DATA CAN BE ANALYSED?
+
+The underlying technology used can be used to efficiently store and retrieve billions of data points. Several hundred thousand events per hour can be consumed, analysed and linked.
 
 
 ---
