@@ -3,36 +3,88 @@ title = "Features"
 type = "feature"
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+## 1. Dashboard Driven
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+A responsive system overview customised for each user
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+![Dashboard](/img/screenshots/miner-dashboard.png)
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+## 2. Real time alerts
 
-## 2. WHAT ARE THE POSTAL RATES?
+Instant alerts for when user specified data or links change
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+## 3. Collaborative Worksets
 
-## 3. DO YOU SEND OVERSEAS?
+Users can carry out investigations on a specific set of data. A dashboard view provides an overview of all their current worksets.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+![Workset Overview](/img/screenshots/workset-overview.png)
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
+Get a summary of the entities in a worksets
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+![Workset Summary](/img/screenshots/workset-summary.png)
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+See how the entities in a workset are related
 
-## 5. ANOTHER IMPORTANT QUESTION
+![Workset Network](/img/screenshots/workset-network.png)
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+If any entity has GeoLocation information, it will be displayed on the map
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+![Workset Location](/img/screenshots/workset-location.png)
+
+Worksets can be shared between users and updates will be reflected in real time.
+
+## 4. Comments
+
+Permissions based comments can be attached to all entities and links within the system. They will be visible as per access requirements. Additionally they are also fully searchable.
+
+## 5. Entity search and entry
+
+All the entities in the system can be displayed
+
+![Entity Overview](/img/screenshots/entity-overview.png)
+
+### Entity Search
+
+Searches can be carried out by name, type, attributes or any combination
+
+By name
+
+![Entity Filtered By Text](/img/screenshots/entity-overview-filtered-text.png)
+
+By type
+
+![Entity Filtered By Type](/img/screenshots/entity-overview-filtered-type.png)
+
+By name and type
+
+![Entity Filtered By Text and Type](/img/screenshots/entity-overview-filtered-text-type.png)
+
+### Entity Entry
+
+Entity details can be viewed and amened. The links can be modified here
+
+![Entity View](/img/screenshots/entity-view.png)
+
+## 6. Link search
+
+## 7. Datasource search
+
+## 8. Network view
+
+### Network search
+
+## 9. Map view
+
+## 10. User access and permissions
+
+## 11. Audit
+
+## 12. Datasource Management
+
+## 13. Metadata Management
+
+### Entity Type Management
+
+### Data Type Management
+
+### Link type Management
