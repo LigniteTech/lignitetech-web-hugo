@@ -1,10 +1,10 @@
-{{ if isset .Site.Params "features" }}
-{{ if .Site.Params.features.enable }}
-{{ if gt (len .Site.Data.features) 0 }}
+{{ if isset .Site.Params "datasources" }}
+{{ if .Site.Params.datasources.enable }}
+{{ if gt (len .Site.Data.datasources) 0 }}
 <section class="bar background-white">
     <div class="container">
         <div class="col-md-12">
-        {{ range sort .Site.Data.features "weight" }}
+        {{ range sort .Site.Data.datasources }}
             <div class="row">
                 <div class="col-md-4">                
                     <div class="box-simple">
