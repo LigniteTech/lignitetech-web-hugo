@@ -6,10 +6,4 @@ title = "Link Analysis"
 banner = "img/banners/link-analysis.jpg"
 +++
 
-Test content.
-
-Adding more content.
-
-Bit changed and again.
-
-Editing on windows now
+Link Analysis

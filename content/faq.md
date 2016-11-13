@@ -43,8 +43,6 @@ Since the service is deployed through a browser, a low latency connection is not
 
 If the data being analysed is of a sensitive nature then self hosted options are available and will require a custom price plan.
 
-## 7. 
-
 ---
 
 > If you need further information please feel free to contact us
