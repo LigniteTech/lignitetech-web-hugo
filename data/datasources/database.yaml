@@ -3,4 +3,5 @@ icon: "fa fa-database"
 description: >
   <ul class="list-style-none">
     <li>Any relational Database with JDBC connectivity</li>
+    <li>Any NoSQL Database with a Java connection library, REST based API or Websocket based publishing</li>
   </ul>
