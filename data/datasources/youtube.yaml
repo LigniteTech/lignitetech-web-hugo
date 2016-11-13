@@ -1,3 +1,8 @@
-name: "Bitcoin"
-icon: "fa fa-btc"
-description: "Identify relationships between data using entity metadata extraction, theme analysis and sentiment analysis"
+name: "Youtube"
+icon: "fa fa-youtube"
+description: >
+  <ul class="list-style-none">
+    <li>Youtube public feeds</li>
+    <li>Comments analysis</li>
+    <li><i>Subject to Facebook terms and conditions and API restrictions</i></li>
+  </ul>

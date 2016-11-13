@@ -1,3 +1,7 @@
-name: "Bitcoin"
-icon: "fa fa-btc"
-description: "Identify relationships between data using entity metadata extraction, theme analysis and sentiment analysis"
+name: "Files"
+icon: "fa fa-file-o"
+description: >
+  <ul class="list-style-none">
+    <li>Files on a standard file system</li>
+    <li>Dependent on file format</li>
+  </ul>

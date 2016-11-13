@@ -1,3 +1,7 @@
-name: "Bitcoin"
-icon: "fa fa-btc"
-description: "Identify relationships between data using entity metadata extraction, theme analysis and sentiment analysis"
+name: "RSS"
+icon: "fa fa-rss"
+description: >
+  <ul class="list-style-none">
+    <li>Any public RSS feed</li>
+    <li>Full Text search</li>
+  </ul>

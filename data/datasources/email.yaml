@@ -1,3 +1,9 @@
-name: "Bitcoin"
-icon: "fa fa-btc"
-description: "Identify relationships between data using entity metadata extraction, theme analysis and sentiment analysis"
+name: "Email"
+icon: "fa fa-envelope-o"
+description: >
+  <ul class="list-style-none">
+    <li>Standard Email Server connectivity</li>
+    <li>Exchange</li>
+    <li>IMAP</li>
+    <li>POP3</li>
+  </ul>

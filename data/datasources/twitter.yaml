@@ -1,3 +1,10 @@
 name: "Twitter"
 icon: "fa fa-twitter"
-description: "Identify relationships between data using entity metadata extraction, theme analysis and sentiment analysis"
+description: >
+  <ul class="list-style-none">
+    <li>Twitter public feeds</li>
+    <li>Tweet analysis</li>
+    <li>Location analysis</li>
+    <li>Follower Information</li>
+    <li><i>Subject to Twitter terms and conditions and API restrictions</i></li>
+  </ul>

@@ -1,3 +1,7 @@
 name: "Google Plus"
-icon: "fa fa-search"
-description: "Identify relationships between data using entity metadata extraction, theme analysis and sentiment analysis"
+icon: "fa fa-google-plus"
+description: >
+  <ul class="list-style-none">
+    <li>Google Plus public feeds</li>
+    <li><i>Subject to Google terms and conditions and API restrictions</i></li>
+  </ul>

@@ -1,3 +1,6 @@
-name: "Bitcoin"
-icon: "fa fa-btc"
-description: "Identify relationships between data using entity metadata extraction, theme analysis and sentiment analysis"
+name: "Database"
+icon: "fa fa-database"
+description: >
+  <ul class="list-style-none">
+    <li>Any relational Database with JDBC connectivity</li>
+  </ul>

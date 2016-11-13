@@ -1,3 +1,9 @@
-name: "Bitcoin"
-icon: "fa fa-btc"
-description: "Identify relationships between data using entity metadata extraction, theme analysis and sentiment analysis"
+name: "Instagram"
+icon: "fa fa-instagram"
+description: >
+  <ul class="list-style-none">
+    <li>Instagram public feeds</li>
+    <li>Tags</li>
+    <li>Image processing to be available soon</li>
+    <li><i>Subject to Instagram terms and conditions and API restrictions</i></li>
+  </ul>

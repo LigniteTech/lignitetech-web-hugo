@@ -1,3 +1,10 @@
-name: "Bitcoin"
-icon: "fa fa-btc"
-description: "Identify relationships between data using entity metadata extraction, theme analysis and sentiment analysis"
+name: "Facebook"
+icon: "fa fa-facebook"
+description: >
+  <ul class="list-style-none">
+    <li>Facebook public feeds</li>
+    <li>Posts</li>
+    <li>Connections</li>
+    <li>Location analysis</li>
+    <li><i>Subject to Facebook terms and conditions and API restrictions</i></li>
+  </ul>

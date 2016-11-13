@@ -1,3 +1,9 @@
 name: "Bitcoin"
 icon: "fa fa-btc"
-description: "Identify relationships between data using entity metadata extraction, theme analysis and sentiment analysis"
+description: >
+  <ul class="list-style-none">
+    <li>Listen to the complete Bitcoin blockchain</li>
+    <li>Transaction data</li>
+    <li>In/Out Data</li>
+    <li>Location Data</li>
+  </ul>

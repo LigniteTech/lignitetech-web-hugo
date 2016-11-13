@@ -2,6 +2,7 @@
 {{ if .Site.Params.datasources.enable }}
 {{ if gt (len .Site.Data.datasources) 0 }}
 <section class="bar background-white">
+    <h2>Available Datasources</h2>
     <div class="container">
         <div class="col-md-12">
         {{ range sort .Site.Data.datasources }}
@@ -16,7 +17,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="datasource-description">
-                        <p>{{ .description }}</p>
+                        <p>{{ .description | safeHTML }}</p>
                     </div>
                 </div>                                
             </div>
