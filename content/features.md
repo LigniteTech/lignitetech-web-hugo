@@ -99,16 +99,40 @@ Dynamically typed queries can be construted via an intuitive GUI
 
 ## 9. Map view
 
+Any GeoLocation aware attributes on an entity will be displayed on a map view
+
+![Map Overview](/img/screenshots/map-overview.png)
+
 ## 10. User access and permissions
+
+Users and access permissions are maintained via the admin section
+
+![Admin User Management](/img/screenshots/admin-user-management.png)
+
+![Admin Permissions Management](/img/screenshots/admin-permissions-management.png)
 
 ## 11. Audit
 
+All events that take place in the system are fully audited
+
+![Admin Audit Management](/img/screenshots/admin-audit-management.png)
+
 ## 12. Datasource Management
+
+Datasources can be managed via a GUI
+
+![Admin Datasource Management](/img/screenshots/admin-datasource-management.png)
+
+Where credentials are required to access the datasource there will be fields to enter the relevant information
+
+![Admin Datasource Twitter](/img/screenshots/admin-datasource-twitter.png)
 
 ## 13. Metadata Management
 
-### Entity Type Management
+All system metadata is managed from a single location
 
-### Data Type Management
+![Admin Metadata Management](/img/screenshots/admin-metadata-management.png)
 
-### Link type Management
+All the relevant data fields for metadata can be modified
+
+![Admin Metadata Entity](/img/screenshots/admin-metadata-entity.png)
