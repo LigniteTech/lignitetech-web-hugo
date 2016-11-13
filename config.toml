@@ -1,4 +1,4 @@
-baseurl = "http:/www.lignitetech.com"
+baseurl = "http:/www.lignitetech.com/"
 title = "LigniteTech"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
