@@ -65,13 +65,37 @@ Entity details can be viewed and amened. The links can be modified here
 
 ![Entity View](/img/screenshots/entity-view.png)
 
-## 6. Link search
+## 6. Link view and search
+
+You can see all the links held in the system as well as being able to search by name and type
+
+![Link Overview](/img/screenshots/links-overview.png)
 
 ## 7. Datasource search
 
+Given the appropriate access level, new datasource searches can be added into the system
+
+![Search Overview](/img/screenshots/search-overview.png)
+
 ## 8. Network view
 
+The network view can give you a visual view of the data in the system
+
+![Network View](/img/screenshots/network-view.png)
+
+Large datasets can be explored
+
+![Network View Zoomed Out](/img/screenshots/network-view-zoomed-out.png)
+
+Hovering over any data point highlights the connected entities
+
+![Network View Hover](/img/screenshots/network-view-hover.png)
+
 ### Network search
+
+Dynamically typed queries can be construted via an intuitive GUI
+
+![Network Query View](/img/screenshots/network-query-view.png)
 
 ## 9. Map view
 
