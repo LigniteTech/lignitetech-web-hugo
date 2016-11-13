@@ -9,6 +9,10 @@
   min-height: 230px;
 }
 
-.imgContainer{
+.imgContainer {
     float:left;
+}
+
+.datasource-description {
+	vertical-align: text-top;
 }

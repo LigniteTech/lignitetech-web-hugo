@@ -36,7 +36,3 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 * Aliquam tincidunt mauris eu risus.
 * Vestibulum auctor dapibus neque.
-
----
-
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
