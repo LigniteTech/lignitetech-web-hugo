@@ -1,0 +1,9 @@
+weight: 4
+title: "Collaborate"
+description: >
+  <ul class="list-style-none">
+    <li>ACL Based collaboration tools</li>
+    <li>Shareable investigative worksets</li>
+    <li>Custom metadata mapping</li>
+  </ul>
+image: "img/carousel/miner-collaborate.png"

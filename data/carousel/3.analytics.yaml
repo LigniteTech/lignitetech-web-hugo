@@ -1,0 +1,10 @@
+weight: 3
+title: "Analytics"
+description: >
+  <ul class="list-style-none">
+    <li>Extensive Graph based analytics</li>
+    <li>Integration with Big Data solutions</li>
+    <li>Integration with Machine Learning tools</li>
+    <li>Location aware analytics</li>
+  </ul>
+image: "img/carousel/miner-analytics-screen.png"
