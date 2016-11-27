@@ -15,7 +15,10 @@
 
         {{ partial "breadcrumbs.html" . }}
 
+
+
         <div id="content">
+        
             {{ if isset .Params "id" }}
 
               {{ partial .Params.id . }}
@@ -23,6 +26,10 @@
             {{ else }}
 
             <div class="container">
+
+            <div id="toc" class="well col-md-4 col-sm-6">
+                {{ .TableOfContents }}
+            </div>
 
                 <div class="row">
 
