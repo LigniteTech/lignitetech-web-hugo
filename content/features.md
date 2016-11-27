@@ -3,17 +3,17 @@ title = "Features"
 type = "feature"
 +++
 
-## 1. Dashboard Driven
+## Dashboard Driven
 
 A responsive system overview customised for each user
 
 ![Dashboard](/img/screenshots/miner-dashboard.png)
 
-## 2. Real time alerts
+## Real time alerts
 
 Instant alerts for when user specified data or links change
 
-## 3. Collaborative Worksets
+## Collaborative Worksets
 
 Users can carry out investigations on a specific set of data. A dashboard view provides an overview of all their current worksets.
 
@@ -33,11 +33,11 @@ If any entity has GeoLocation information, it will be displayed on the map
 
 Worksets can be shared between users and updates will be reflected in real time.
 
-## 4. Comments
+## Comments
 
 Permissions based comments can be attached to all entities and links within the system. They will be visible as per access requirements. Additionally they are also fully searchable.
 
-## 5. Entity search and entry
+## Entity search and entry
 
 All the entities in the system can be displayed
 
@@ -65,19 +65,19 @@ Entity details can be viewed and amened. The links can be modified here
 
 ![Entity View](/img/screenshots/entity-view.png)
 
-## 6. Link view and search
+## Link view and search
 
 You can see all the links held in the system as well as being able to search by name and type
 
 ![Link Overview](/img/screenshots/links-overview.png)
 
-## 7. Datasource search
+## Datasource search
 
 Given the appropriate access level, new datasource searches can be added into the system
 
 ![Search Overview](/img/screenshots/search-overview.png)
 
-## 8. Network view
+## Network view
 
 The network view can give you a visual view of the data in the system
 
@@ -97,13 +97,13 @@ Dynamically typed queries can be construted via an intuitive GUI
 
 ![Network Query View](/img/screenshots/network-query-view.png)
 
-## 9. Map view
+## Map view
 
 Any GeoLocation aware attributes on an entity will be displayed on a map view
 
 ![Map Overview](/img/screenshots/map-overview.png)
 
-## 10. User access and permissions
+## User access and permissions
 
 Users and access permissions are maintained via the admin section
 
@@ -111,13 +111,13 @@ Users and access permissions are maintained via the admin section
 
 ![Admin Permissions Management](/img/screenshots/admin-permissions-management.png)
 
-## 11. Audit
+## Audit
 
 All events that take place in the system are fully audited
 
 ![Admin Audit Management](/img/screenshots/admin-audit-management.png)
 
-## 12. Datasource Management
+## Datasource Management
 
 Datasources can be managed via a GUI
 
@@ -127,7 +127,7 @@ Where credentials are required to access the datasource there will be fields to 
 
 ![Admin Datasource Twitter](/img/screenshots/admin-datasource-twitter.png)
 
-## 13. Metadata Management
+## Metadata Management
 
 All system metadata is managed from a single location
 
