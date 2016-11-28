@@ -20,7 +20,7 @@
                 <div class="row">
                     <!-- *** LEFT COLUMN *** -->
 
-                    <div class="col-md-9" id="blog-listing-medium">
+
 
                         {{ $paginator := .Paginate (where .Data.Pages "Type" "item") }}
                         {{ range $paginator.Pages }}
@@ -38,7 +38,7 @@
                                   </div>
                                 </div>
                                 <div class="col-md-8">
-                                    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                                    <h2>{{ .Title }}</h2>
                                     <div class="clearfix">
                                         <p class="author-category">
                                           {{ if isset .Params "author" }}
@@ -56,27 +56,11 @@
                                         </p>
                                     </div>
                                     <p class="intro">{{ .Summary }}</p>
-                                    <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-template-main">Continueiiii reading</a>
-                                    </p>
                                 </div>
                             </div>
                         </section>
                         {{ end }}
-
-                        <ul class="pager">
-                            {{ if .Paginator.HasPrev }}
-                            <li class="previous"><a href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}">&larr; Newer</a></li>
-                            {{ else }}
-                            <li class="previous disabled"><a href="#">&larr; Newer</a></li>
-                            {{ end }}
-
-                            {{ if .Paginator.HasNext }}
-                            <li class="next"><a href="{{ .Site.BaseURL }}{{ .Paginator.Next.URL }}">Older &rarr;</a></li>
-                            {{ else }}
-                            <li class="next disabled"><a href="#">Older &rarr;</a></li>
-                            {{ end }}
-                        </ul>
-                    </div>
+                    
                     <!-- /.col-md-9 -->
 
                     <!-- *** LEFT COLUMN END *** -->
@@ -84,15 +68,7 @@
                     <!-- *** RIGHT COLUMN ***
        _________________________________________________________ -->
 
-                    <div class="col-md-3">
 
-                        <!-- *** MENUS AND WIDGETS *** -->
-
-                        {{ partial "sidebar.html" . }}
-
-                        <!-- *** MENUS AND FILTERS END *** -->
-
-                    </div>
                     <!-- /.col-md-3 -->
 
                     <!-- *** RIGHT COLUMN END *** -->
