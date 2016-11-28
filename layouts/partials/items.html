@@ -15,7 +15,7 @@
             <!-- *** BLOG HOMEPAGE *** -->
 
             <div class="row">                                
-                {{ range first 4 (where .Data.Pages "Type" "item") }}
+                {{ range (where .Data.Pages "Type" "item") }}
                 <div class="col-md-3 col-sm-6">
                     <div class="box-image-text blog">
                         <div class="top">
