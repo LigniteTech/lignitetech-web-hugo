@@ -1,8 +1,7 @@
 +++
 date = "2016-11-08T20:10:58Z"
-title = "Workset Summary"
-tags = ["events"]
+title = "1.Dashboard Driven"
 banner = "/img/screenshots/miner-dashboard.png"
 +++
 
-Summarized view of data
+Dashboard view of data

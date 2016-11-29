@@ -1,7 +1,6 @@
 +++
 date = "2014-11-08T20:10:58Z"
-title = "Dashboard Driven"
-tags = ["events"]
+title = "3.Workset Summary"
 banner = "/img/screenshots/workset-summary.png"
 +++
 

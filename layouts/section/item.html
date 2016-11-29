@@ -19,7 +19,7 @@
             <div class="container">
                 <div class="row">
                     <!-- *** LEFT COLUMN *** -->
-                        {{ range where .Data.Pages.ByDate "Type" "item"}}
+                        {{ range where .Data.Pages "Type" "item"}}
                           {{ $.Scratch.Add "i" 1 }}
                           {{ $i := $.Scratch.Get "i" }}
                           <section class="post">
