@@ -1,8 +1,8 @@
 +++
 date = "2016-11-08T20:10:58Z"
-title = "Dashboard Driven"
+title = "Workset Summary"
 tags = ["events"]
 banner = "/img/screenshots/miner-dashboard.png"
 +++
 
-A responsive system overview customised for each user
+Summarized view of data
