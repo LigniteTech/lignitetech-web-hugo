@@ -1,6 +1,6 @@
 +++
 date = "2009-01-01T01:01:01Z"
-title = "9.Link View"
+title = "Link View"
 banner = "/img/screenshots/links-overview.png"
 alt_banner="Link Overview"
 +++

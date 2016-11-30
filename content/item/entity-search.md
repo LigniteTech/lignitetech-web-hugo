@@ -1,6 +1,6 @@
 +++
 date = "2010-01-01T01:01:01Z"
-title = "7.Entity Search"
+title = "Entity Search"
 banner = "/img/screenshots/entity-overview.png"
 alt_banner="Miner Dashboard View"
 +++

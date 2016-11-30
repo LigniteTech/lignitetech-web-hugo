@@ -1,6 +1,6 @@
 +++
 date = "2011-01-01T01:01:01Z"
-title = "6.Comments"
+title = "Comments"
 banner = "/img/screenshots/workset-comment.png"
 alt_banner="Miner Dashboard View"
 +++
