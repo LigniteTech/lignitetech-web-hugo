@@ -33,9 +33,19 @@ If any entity has GeoLocation information, it will be displayed on the map
 
 Worksets can be shared between users and updates will be reflected in real time.
 
+
+
+
+
+
+
+
 ## Comments
 
 Permissions based comments can be attached to all entities and links within the system. They will be visible as per access requirements. Additionally they are also fully searchable.
+
+
+
 
 ## Entity search and entry
 
@@ -59,11 +69,25 @@ By name and type
 
 ![Entity Filtered By Text and Type](/img/screenshots/entity-overview-filtered-text-type.png)
 
+
+
+
+
+
+
+
+
+
+
 ### Entity Entry
 
 Entity details can be viewed and amened. The links can be modified here
 
 ![Entity View](/img/screenshots/entity-view.png)
+
+
+
+
 
 ## Link view and search
 
@@ -71,11 +95,16 @@ You can see all the links held in the system as well as being able to search by 
 
 ![Link Overview](/img/screenshots/links-overview.png)
 
+
+
+
 ## Datasource search
 
 Given the appropriate access level, new datasource searches can be added into the system
 
 ![Search Overview](/img/screenshots/search-overview.png)
+
+
 
 ## Network view
 
@@ -91,11 +120,16 @@ Hovering over any data point highlights the connected entities
 
 ![Network View Hover](/img/screenshots/network-view-hover.png)
 
+
+
+
 ### Network search
 
 Dynamically typed queries can be construted via an intuitive GUI
 
 ![Network Query View](/img/screenshots/network-query-view.png)
+
+
 
 ## Map view
 
@@ -103,36 +137,6 @@ Any GeoLocation aware attributes on an entity will be displayed on a map view
 
 ![Map Overview](/img/screenshots/map-overview.png)
 
-## User access and permissions
 
-Users and access permissions are maintained via the admin section
 
-![Admin User Management](/img/screenshots/admin-user-management.png)
 
-![Admin Permissions Management](/img/screenshots/admin-permissions-management.png)
-
-## Audit
-
-All events that take place in the system are fully audited
-
-![Admin Audit Management](/img/screenshots/admin-audit-management.png)
-
-## Datasource Management
-
-Datasources can be managed via a GUI
-
-![Admin Datasource Management](/img/screenshots/admin-datasource-management.png)
-
-Where credentials are required to access the datasource there will be fields to enter the relevant information
-
-![Admin Datasource Twitter](/img/screenshots/admin-datasource-twitter.png)
-
-## Metadata Management
-
-All system metadata is managed from a single location
-
-![Admin Metadata Management](/img/screenshots/admin-metadata-management.png)
-
-All the relevant data fields for metadata can be modified
-
-![Admin Metadata Entity](/img/screenshots/admin-metadata-entity.png)
