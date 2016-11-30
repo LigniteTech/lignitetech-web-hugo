@@ -5,4 +5,8 @@ banner = "/img/screenshots/workset-summary.png"
 alt_banner="Miner Workset Summary View"
 +++
 
+Workset Summary
+
+<!--more-->
+
 A responsive system overview customised for each user

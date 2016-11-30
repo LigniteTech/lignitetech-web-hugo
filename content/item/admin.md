@@ -5,6 +5,10 @@ banner = "/img/screenshots/links-overview.png"
 alt_banner="Link Overview"
 +++
 
+Admin Summary Here
+
+<!--more-->
+
 ## User access and permissions
 
 Users and access permissions are maintained via the admin section

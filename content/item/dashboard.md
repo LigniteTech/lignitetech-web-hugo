@@ -6,3 +6,5 @@ alt_banner="Miner Dashboard View"
 +++
 
 Dashboard view of data
+
+<!--more-->

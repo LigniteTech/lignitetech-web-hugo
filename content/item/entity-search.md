@@ -5,6 +5,10 @@ banner = "/img/screenshots/entity-overview.png"
 alt_banner="Miner Dashboard View"
 +++
 
+Entity search
+
+<!--more-->
+
 Searches can be carried out by name, type, attributes or any combination
 
 By name

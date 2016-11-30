@@ -6,3 +6,5 @@ alt_banner="Miner Collaborative Workset View"
 +++
 
 Collaborative workset
+
+<!--more-->

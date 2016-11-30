@@ -5,4 +5,8 @@ banner = "/img/screenshots/workset-location.png"
 alt_banner="Miner Workset GeoLocation view"
 +++
 
+Workset Location view
+
+<!--more-->
+
 geo location view
