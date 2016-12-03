@@ -47,7 +47,7 @@
                                 </div>
                               </div>
                               <div class="column">
-                                <div class="col-md-8">
+                                <div class="col-md-8 summary">
                                     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                                     <div class="clearfix">
                                        
@@ -57,7 +57,7 @@
                               </div>
                             {{ else }}
                               <div class="column">
-                                <div class="col-md-8">
+                                <div class="col-md-8 summary">
                                     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                                     <div class="clearfix">
                                        
@@ -77,9 +77,10 @@
                                       </a>
                                   </div>
                                 </div>
-                              </div>
+                              </div>                              
                             {{ end }}
                           </div>
+                          <div class="break"></div>
                           </section>
                         {{ end }}
                     
