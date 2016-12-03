@@ -43,6 +43,13 @@ img {
   position: relative;
 }
 
+.invisibleBreak {
+  height: 1px;
+  width: 100%;
+  margin: 70px 0 60px; 
+  position: relative;
+}
+
 .break:before {
     position: absolute;
     top: 0;
@@ -61,3 +68,20 @@ img {
 .summary {
     text-align: center;
 }
+
+.feature .summary h2 {
+      font-family: "Lato", "LatoLatinLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      color: #EA5565;
+      font-size: 26px;
+      font-weight: normal;
+      font-variant: small-caps; 
+}
+
+.feature .summary p {
+      font-family: "Lato", "LatoLatinLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      color: #313042;
+      font-size: 20px;
+      margin-top: 15px;
+      line-height: 28px;
+      font-weight: normal; 
+  }

@@ -17,10 +17,12 @@
 
         <div class="container featureHeader">
             <div class="row">
-              <h1>Something Something Something Data</h1>
-              <p class="sub-text">Link the data you own to the data you don't</p>
+              <h1>Dynamic Knowledge Discovery for Linked Data </h1>
+              <p class="sub-text">Connect the data you have to the data you want</p>
             </div>
           </div>
+
+          <div class="invisibleBreak"/>
 
         <div id="content">
           
@@ -31,7 +33,7 @@
                           {{ $.Scratch.Add "i" 1 }}
                           {{ $i := $.Scratch.Get "i" }}
                           <section class="post">
-                          <div class="row">
+                          <div class="row feature">
                             {{ if modBool $i 2 }}
                               <div class="column">
                                 <div class="col-md-4">
@@ -80,7 +82,7 @@
                               </div>                              
                             {{ end }}
                           </div>
-                          <div class="break"></div>
+                          <div class="break"/>
                           </section>
                         {{ end }}
                     
