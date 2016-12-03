@@ -7,7 +7,7 @@ languageCode = "en-us"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-76825238-1"
 
-Site.Title="Miner"
+Title="Miner"
 
 # Define the number of posts per page
 paginate = 10
