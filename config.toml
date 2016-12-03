@@ -78,7 +78,7 @@ paginate = 10
     weight = 5
 
 [[params.menu]]
-    name = "Items"
+    name = "Features"
     url  = "/item/"
     weight = 6
 
