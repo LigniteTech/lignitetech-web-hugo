@@ -35,6 +35,10 @@ img {
     height: auto;
 }
 
+#heading-breadcrumbs .row .pageHeader h1 {
+    font-family: "Lato", "LatoLatinLight", "Helvetica Neue", Helvetica, Arial, sans-serif;    
+}
+
 .featureHeader {    
 	margin: auto;
     width: 50%;
