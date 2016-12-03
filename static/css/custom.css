@@ -1,5 +1,15 @@
 /* your styles go here */
 
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic);
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic);
+
+body {
+  font-family: "Lato", "LatoLatinLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  color: #313042;
+  overflow-x: hidden; 
+}
+
 .box-image-text .image {
   min-height: 200px;
   max-height: 200px;
@@ -25,12 +35,76 @@ img {
     height: auto;
 }
 
-.featureHeader {
+#heading-breadcrumbs .row .pageHeader h1 {
+    font-family: "Lato", "LatoLatinLight", "Helvetica Neue", Helvetica, Arial, sans-serif;    
+}
+
+.featureHeader {    
 	margin: auto;
     width: 50%;
     padding: 10px;
 }
 
-.featureHeader .row {
+.featureHeader .row {    
 	text-align: center;
 }
+
+.featureHeader .row h1 {
+    font-family: "Lato", "LatoLatinLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.featureHeader .row .sub-text {
+    font-family: "Lato", "LatoLatinLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+
+.break {
+  background-color: #da4d4d;
+  height: 1px;
+  width: 100%;
+  margin: 70px 0 60px; 
+  position: relative;
+}
+
+.invisibleBreak {
+  height: 1px;
+  width: 100%;
+  margin: 70px 0 60px; 
+  position: relative;
+}
+
+.break:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 3px;
+    content: '';
+    width: 100%;
+    background-image: -webkit-gradient(linear, left top, right top, color-stop(0, rgba(255, 255, 255, 0.75)), color-stop(0.5, rgba(250, 250, 250, 0)), color-stop(1, rgba(255, 255, 255, 0.75)));
+    background-image: -webkit-linear-gradient(left, rgba(255, 255, 255, 0.75) 0%, rgba(250, 250, 250, 0) 50%, rgba(255, 255, 255, 0.75) 100%);
+    background-image: -moz-linear-gradient(left, rgba(255, 255, 255, 0.75) 0%, rgba(250, 250, 250, 0) 50%, rgba(255, 255, 255, 0.75) 100%);
+    background-image: -o-linear-gradient(left, rgba(255, 255, 255, 0.75) 0%, rgba(250, 250, 250, 0) 50%, rgba(255, 255, 255, 0.75) 100%);
+    background-image: -ms-linear-gradient(left, rgba(255, 255, 255, 0.75) 0%, rgba(250, 250, 250, 0) 50%, rgba(255, 255, 255, 0.75) 100%);
+    background-image: linear-gradient(left, rgba(255, 255, 255, 0.75) 0%, rgba(250, 250, 250, 0) 50%, rgba(255, 255, 255, 0.75) 100%); 
+}
+
+.summary {
+    text-align: center;
+}
+
+.feature .summary h2 {
+      font-family: "Lato", "LatoLatinLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      color: #EA5565;
+      font-size: 26px;
+      font-weight: normal;
+      font-variant: small-caps; 
+}
+
+.feature .summary p {
+      font-family: "Lato", "LatoLatinLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      color: #313042;
+      font-size: 20px;
+      margin-top: 15px;
+      line-height: 28px;
+      font-weight: normal; 
+  }
