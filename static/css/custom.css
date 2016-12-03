@@ -25,14 +25,23 @@ img {
     height: auto;
 }
 
-.featureHeader {
+.featureHeader {    
 	margin: auto;
     width: 50%;
     padding: 10px;
 }
 
-.featureHeader .row {
+.featureHeader .row {    
 	text-align: center;
+}
+
+.featureHeader .row h1 {
+    font-family: "Lato", "LatoLatinLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.featureHeader .row .sub-text {
+    font-family: "Lato", "LatoLatinLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
 }
 
 .break {
