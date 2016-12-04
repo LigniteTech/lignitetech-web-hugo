@@ -5,6 +5,7 @@ banner = "/img/screenshots/miner-dashboard.png"
 alt_banner="Miner Dashboard View"
 +++
 
-Dashboard view of data
-
+A personalised dashboard view for each user.
 <!--more-->
+
+![Dashboard](/img/screenshots/miner-dashboard.png)
