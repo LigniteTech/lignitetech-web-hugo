@@ -2,6 +2,7 @@ weight: 1
 title: "Realtime Data Analysis"
 description: >
   <ul class="list-style-none">
+    <li>Vizualize and search data through a responsive web interface</li>
     <li>Map publicly available data against proprietary</li>
     <li>Direct, accurate and focused analysis of online activity</li>
   </ul>
