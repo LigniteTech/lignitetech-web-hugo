@@ -7,6 +7,8 @@ languageCode = "en-us"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-76825238-1"
 
+Title="Miner"
+
 # Define the number of posts per page
 paginate = 10
 
@@ -59,7 +61,7 @@ paginate = 10
 
 [[params.menu]]
     name = "Features"
-    url  = "/features/"
+    url  = "/item/"
     weight = 2
 
 [[params.menu]]
@@ -76,11 +78,6 @@ paginate = 10
     name = "Contact"
     url  = "/contact/"
     weight = 5
-
-[[params.menu]]
-    name = "Features"
-    url  = "/item/"
-    weight = 6
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
