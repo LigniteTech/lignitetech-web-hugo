@@ -5,7 +5,7 @@ banner = "/img/screenshots/entity-overview.png"
 alt_banner="Miner Dashboard View"
 +++
 
-Entity search
+Entities within the system can be searched for on a combination of any of their underlying attributes. Create worksets for further investigation or to send another user.
 
 <!--more-->
 

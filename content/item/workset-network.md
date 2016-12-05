@@ -5,8 +5,7 @@ banner = "/img/screenshots/workset-network.png"
 alt_banner="Miner Workset Network View"
 +++
 
-Network view
+Network view of workset data. See how the entities in a workset are related. Increase the depth of the relationships to discover patterns and relationship clusters.
 
 <!--more-->
 
-A responsive system overview customised for each user

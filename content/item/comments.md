@@ -5,6 +5,6 @@ banner = "/img/screenshots/workset-comment.png"
 alt_banner="Miner Dashboard View"
 +++
 
-Comments can be attached to all entities and links within the system. They will be visible as per access requirements. Additionally they are also fully searchable.
+Comments can be attached to all entities and links within the system. They will be visible as per access requirements. Additionally they are also full text indexed and can be searched from any point in the system.
 
 <!--more-->
