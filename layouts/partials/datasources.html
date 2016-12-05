@@ -2,26 +2,32 @@
 {{ if .Site.Params.datasources.enable }}
 {{ if gt (len .Site.Data.datasources) 0 }}
 <section class="bar background-white">
-    <h2>Available Datasources</h2>
     <div class="container">
-        <div class="col-md-12">
-        {{ range sort .Site.Data.datasources }}
+        <h2>Available Datasources</h2>
+        <div class="feature columns">
             <div class="row">
-                <div class="col-md-4">                
-                    <div class="box-simple">
-                        <div class="icon">
-                            <i class="{{ .icon }}"></i>
+                <div class="container">
+                    <div class="col-md-12">
+                    {{ range sort .Site.Data.datasources }}
+                        <div class="row">
+                            <div class="col-md-4">                
+                                <div class="box-simple">
+                                    <div class="icon">
+                                        <i class="{{ .icon }}"></i>
+                                    </div>
+                                    <h3>{{ .name }}</h3>
+                                </div>                
+                            </div>
+                            <div class="col-md-4">
+                                <div class="datasource-description">
+                                    <p>{{ .description | safeHTML }}</p>
+                                </div>
+                            </div>                                
                         </div>
-                        <h3>{{ .name }}</h3>
-                    </div>                
-                </div>
-                <div class="col-md-4">
-                    <div class="datasource-description">
-                        <p>{{ .description | safeHTML }}</p>
+                        {{ end }}
                     </div>
-                </div>                                
-            </div>
-            {{ end }}
+                </div>
+            </div>    
         </div>
     </div>
 </section>

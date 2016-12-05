@@ -5,8 +5,9 @@ banner = "/img/screenshots/links-overview.png"
 alt_banner="Link Overview"
 +++
 
-Link Overview
+Link Overview. You can see all the links held in the system as well as being able to search by name and type. Display links in chronological order as the data updates.
 
 <!--more-->
 
-You can see all the links held in the system as well as being able to search by name and type
+![Link Overview](/img/screenshots/links-overview.png)
+

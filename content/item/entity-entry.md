@@ -5,6 +5,6 @@ banner = "/img/screenshots/entity-view.png"
 alt_banner="Entity Entry View"
 +++
 
-Entity details can be viewed and amended. The links can be modified here
+Entity details can be viewed and amended. Add comments and attributes on an ad-hoc basis. Create new relationships to other entities
 
 <!--more-->

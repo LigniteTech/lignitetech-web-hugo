@@ -5,7 +5,7 @@ banner = "/img/screenshots/links-overview.png"
 alt_banner="Link Overview"
 +++
 
-Admin Summary Here
+Full administration of the system including user and permissions management, metadata management and data source definition.
 
 <!--more-->
 
