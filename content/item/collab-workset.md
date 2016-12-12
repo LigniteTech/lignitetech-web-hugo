@@ -9,4 +9,6 @@ Share investigations between teams, comment on any piece of data, set up real ti
 
 <!--more-->
 
+![Collaborative Worksets](/img/screenshots/workset-overview.png)
+
 Users can carry out investigations on a specific groups of data. A dashboard view provides an overview of all their current worksets.

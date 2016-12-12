@@ -8,3 +8,5 @@ alt_banner="Entity Entry View"
 Entity details can be viewed and amended. Add comments and attributes on an ad-hoc basis. Create new relationships to other entities
 
 <!--more-->
+
+![Entity Entry](/img/screenshots/entity-view.png)

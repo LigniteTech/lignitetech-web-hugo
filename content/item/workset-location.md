@@ -8,3 +8,5 @@ alt_banner="Miner Workset GeoLocation view"
 Workset Location view. Any entity with GeoLocation information, will be displayed on the map. The map instantly reflects any incoming data with location information.
 
 <!--more-->
+
+![Collaborative Workset Location View](/img/screenshots/workset-location.png)
