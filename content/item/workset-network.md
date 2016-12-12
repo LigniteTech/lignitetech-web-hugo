@@ -9,3 +9,4 @@ Network view of workset data. See how the entities in a workset are related. Inc
 
 <!--more-->
 
+![Collaborative Workset Network View](/img/screenshots/workset-network.png)

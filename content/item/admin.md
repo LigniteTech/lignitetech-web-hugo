@@ -1,6 +1,7 @@
 +++
 date = "2005-01-01T01:01:01Z"
 title = "Admin View"
+subtitle = "Administrative View"
 banner = "/img/screenshots/links-overview.png"
 alt_banner="Link Overview"
 +++

@@ -16,7 +16,6 @@
         {{ partial "breadcrumbs.html" . }}
 
 
-
         <div id="content">
         
             {{ if isset .Params "id" }}
@@ -25,28 +24,32 @@
 
             {{ else }}
 
-            <div class="container">
+                <div class="container">
 
+                {{ if isset .Params "subtitle" }}
 
+                    <h2>{{ .Params.subtitle | safeHTML }}</h2>
 
-                <div class="feature columns">
-                <div class="row">
+                {{ end }}
 
-                    <div class="col-md-12">
+                    <div class="feature columns">
+                    <div class="row">
 
-                        <div>
-                          {{ .Content }}
+                        <div class="col-md-12">
+
+                            <div>
+                              {{ .Content }}
+                            </div>
+
                         </div>
 
                     </div>
+                    </div>
+                    
+                    <!-- /.row -->
 
                 </div>
-                </div>
-                
-                <!-- /.row -->
-
-            </div>
-            <!-- /.container -->
+                <!-- /.container -->
 
             {{ end }}
         </div>
